@@ -1,3 +1,4 @@
+#fibonacci með 3 tölum
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 n1=0
 n2=1
